@@ -27,6 +27,7 @@ Rules:
 - Lose if monster reaches player. Win if player reaches `G`.
 
 To play from a Python shell:
+MAKE SURE YOU RUN "python" BEFORE SO IT IS A PYTHON SHELL
 ```python
 import pathfinding
 pathfinding.game_loop("BFS")
